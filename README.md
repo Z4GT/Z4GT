@@ -13,7 +13,7 @@
 
 - 🎓 **Estudiante:** Cursando en la Universidad Técnica del Norte.
 - 🧠 **Investigación & IA:** Desarrollando mi tesis enfocada en la aplicación de técnicas de inteligencia artificial explicable (XAI) en modelos deep learning para la detección de malezas en entornos agrícolas.
-- 📈 **Trading:** Apasionado por el Scalping de futuros en NASDAQ, Order Flow y Volume Spread Analysis (VSA).
+- 📈 **Trading:** Apasionado por el Scalping de futuros en NASDAQ | Order Flow | Volume Spread Analysis (VSA).
 - 🤖 **Automatización:** Creador de flujos de trabajo con **n8n** y desarrollo de bots.
 - ☁️ **Desarrollo:** Siempre escalando proyectos y explorando la cultura DevOps.
 - 🌍 **Idiomas:** Español | English.
